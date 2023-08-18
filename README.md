@@ -32,3 +32,8 @@ Dating App is a mobile application that helps users connect and find romantic pa
 #### 9. Edit Profile
 - Users can edit and update their profile information.
 - Provide options to modify personal details, add or remove photos, and update preferences.
+
+## Dependencies
+- [React Native](https://reactnative.dev/) : A cross-platform framework for building mobile applications.
+- [Google Login](https://developers.google.com/identity/protocols/oauth2) : Allows users to log in using their Google accounts.
+- [Facebook Login](https://developers.facebook.com/docs/facebook-login/) : Allows users to log in using their Facebook accounts.
